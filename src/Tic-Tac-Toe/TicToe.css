@@ -1,0 +1,26 @@
+.toe-row{
+    display: block;
+    border: 1px solid;
+}
+
+.b-bottom-right {
+    border-right: 15px solid #1CDBF5;
+    border-bottom: 15px solid #1CDBF5;
+}
+
+.b-bottom {
+    border-bottom: 15px solid #1CDBF5;
+}
+
+.b-right {
+    border-right: 15px solid #1CDBF5;
+}
+.fc-aqua {
+    color: #1CDBF5;
+}
+
+.fc-white {
+    color: white;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}

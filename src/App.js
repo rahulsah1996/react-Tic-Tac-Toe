@@ -4,6 +4,7 @@ import { Button, Row, Col, Container, Carousel, ListGroupItem, Card, ListGroup, 
 import reactDom from 'react-dom';
 import TabPanel from './TabPanel'
 import StateEventHandle from './Components/StateEventHandle';
+import { UiToe } from './Tic-Tac-Toe/UiToe';
 function App() {
   // const [show, setShow] = useState(true);
   setTimeout(() => {
@@ -217,6 +218,7 @@ console.log("i am setTime out")
 <TabPanel title="Assets" />
 
       <StateEventHandle />
+      <UiToe />
       </header>
     </div>
   );
